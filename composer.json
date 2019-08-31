@@ -1,0 +1,17 @@
+{
+    "name": "yustas/csk",
+    "description": "csk",
+    "authors": [
+        {
+            "name": "ustyushkin",
+            "email": "ustyushkin.vyacheslav@gmail.com"
+        }
+    ],
+    "require": {},
+  "autoload":{
+    "psr-4":{
+      "CSK\\":"src/",
+      "CSK\\Recrutation\\":"src/"
+    }
+  }
+}
